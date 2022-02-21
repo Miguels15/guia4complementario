@@ -1,0 +1,19 @@
+body{
+	background-color:rgb(240, 128, 128);
+}
+.p1{
+	color: rgb(16,71,173); font-weight: bold;
+}
+.p2{
+	text-transform: uppercase; text-align: justify;
+}
+.p3{
+
+}
+.span1{
+	font-style: italic;
+
+}
+.span2{
+	font-style: italic; font-size: 12px
+}

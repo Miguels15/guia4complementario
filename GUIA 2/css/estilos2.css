@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Beastly&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+			background: linear-gradient(135deg, #e1e1e1 25%, transparent 25%) -50px 0,
+            linear-gradient(225deg, #e1e1e1 25%, transparent 25%) -50px 0,
+            linear-gradient(315deg, #e1e1e1 25%, transparent 25%),
+            linear-gradient(45deg, #e1e1e1 25%, transparent 25%);
+}
+h1{
+			background: url("imagenes/recuerdos.png") no-repeat top left, url("imagenes/recuerdos.png") no-repeat top right rgba(22, 80, 155, 0.75);
+			color: whitesmoke;
+			text-align: center;
+}
+.contenido{
+margin: 0 auto; /*centrando caja*/
+width: 80%;
+}
+p{
+font-size: 14px;
+}
+.cuento{
+color: dimgray;
+text-align: justify;
+}
+.cuento_parrafo1{
+font-family: 'Roboto', sans-serif;
+}
+.cuento_parrafo2{
+font-family: 'Bebas Neue', cursive;
+}
+.cuento_parrafo3{
+font-family: 'Rubik Beastly', cursive;
+}
+.julio{
+font-family: 'Mochiy Pop P One', sans-serif;
+}
+footer{
+text-align: right ;
+font-size: 9px;
+}

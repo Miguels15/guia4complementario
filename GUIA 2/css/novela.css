@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+*{
+	
+	padding: 0;
+}
+body{
+	background-color:#FBCAFF; 
+}
+h1{
+	color: black;
+	font-family: 'Comforter', cursive;
+	text-align: center;
+}
+#div{
+	margin:10px auto; 
+	margin-left: 40px;
+	display: inline-block;
+	width: 400px;
+	height: 600px;
+	background: #FDEBF7 ; 
+	border-radius: 10px;
+	overflow: hidden;
+}
+.img1{
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	border-radius: 10px;
+}
+.img2{
+	margin-top: 10px;
+	height: 450px;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	border-radius: 10px;
+}
+
+.img3{
+	margin-top: 10px;
+	height: 450px;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	border-radius: 10px;
+}
+
+.img4{
+	margin-top: 10px;
+	height: 450px;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	border-radius: 10px;
+}
+
+#p1{
+	margin: 10px ;
+	white-space: normal;
+	font-family: arial;
+	text-align: justify;
+}
+#p2{
+	margin: 10px ;
+	white-space: normal;
+	font-family: arial;
+	text-align: justify;
+}
+
+
+#p3{
+	margin: 10px ;
+	white-space: normal;
+	font-family: calibri;
+	text-align: justify;
+}
+#p4{
+	margin: 10px ;
+	white-space: normal;
+	font-family: calibri;
+	text-align: justify;
+}
